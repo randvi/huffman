@@ -14,6 +14,7 @@ posT getFileSize(const std::string& fname) {
 	return ifs.tellg();
 }
 
+
 int main() {
 	const std::string file_name("advs.txt");
 	

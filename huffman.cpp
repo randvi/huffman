@@ -3,11 +3,9 @@
 #include <boost/archive/text_iarchive.hpp>
 
 #include <iostream>
-//#include <map>
 #include <fstream>
 #include <vector>
 #include <cstring>
-
 
 using posT = std::istream::pos_type;
 
